@@ -10,7 +10,7 @@ Players can not repeat each other's words and also can not repeat their own word
 A word violates said rules or has no meaning is considered an invalid word.
 
 If a player submit 3 invalid words through out the game, they will be kicked.
-If a player is out of time, they wil be kicked.
+If a player is out of time, they will be kicked.
 
 ## Usage
 
